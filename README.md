@@ -1,4 +1,4 @@
-Essential GraphRAG 通过中文翻译的形式来自学
+Essential GraphRAG 自学
 完成进度：
 
 - [x] 00\_前言
